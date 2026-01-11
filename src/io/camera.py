@@ -1,7 +1,7 @@
 import cv2
 import os
 
-# Open the laptop camera (0 = default webcam)
+# Open the laptop camera 
 cap = cv2.VideoCapture(0)
 
 # Check if the camera opened correctly
